@@ -16,13 +16,11 @@
   
 
 #### 2. SQL
-  Intro to SQL <a href="https://www.kaggle.com/learn/intro-to-sql">[Kaggle]</a> - <i>status:</i> ⏳
+  SQL Open Course for Data Analysis <a href="https://www.youtube.com/playlist?list=PL5TJqBvpXQv5n1N15kcK1m9oKJm_cv-m6">[Programação Dinâmica]</a> - <i>status:</i> ⏳
   
-  8 Weeks SQL Challenge <a href="https://8weeksqlchallenge.com/getting-started/">[Data with Danny]</a>
+  8 Weeks SQL Challenge <a href="https://8weeksqlchallenge.com/getting-started/">[Data with Danny]</a> - <i>status:</i> ⏳
   
   Databases and SQL for Data Science with Python <a href="https://www.coursera.org/learn/sql-data-science?specialization=ibm-data-science">[IBM]</a>
-  
-  Advanced SQL <a href="https://www.kaggle.com/learn/advanced-sql">[Kaggle]</a>
   
   
 #### 3. Math & Statistics
